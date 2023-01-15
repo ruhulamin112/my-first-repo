@@ -1,0 +1,13 @@
+Jokhon new repo push korba 
+
+1. git init
+2. git add .
+3. git commit -m "comments here"
+4. Last 3 line copy from git hub instructions
+
+
+Jokhon Repo te new code push korba
+1. git add .
+2. git commit -m "comments here"
+3. git push
+
